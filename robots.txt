@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laipheloo.b-tree.design/sitemap.xml
